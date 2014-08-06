@@ -144,7 +144,7 @@ class ViewTestCase(TestCase):
         self.assertTrue(user.is_authenticated())
 
 
-#Comment to see if this works
+# Comment to see if this works
 class SyntaxTest(TestCase):
     def test_syntax(self):
         """
